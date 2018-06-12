@@ -3,7 +3,7 @@
 theme: jekyll-theme-cayman
 
 # https://github.com/pages-themes/cayman/blob/master/_layouts/default.html
-title: Research and Development on Unified Environment of Accelerated Computing and Interconnection for Post-Petascale Era
+title: Advanced Computing & Optimization Infrastructure for Extremely Large-Scale Graphs on Post Peta-Scale Supercomputers
 
 github:
   is_project_page: false
